@@ -1,0 +1,65 @@
+Week #4 : Meeting 1
+
+
+
+Spec received:		Thurs 19th Feb 2015
+
+Scrumboard set up:	http://scrumblr.ca/cs4125
+
+GitHub set up:		https://github.com/cs4125/project
+activity
+Log set up:		git: activityLog.txt
+
+
+
+Suggested project:	http://1000projects.org/hostel-management-system.html -> hostel
+
+			http://1000projects.org/sr1p/cs1p/hostel-man1.zip -> download link for above
+
+
+Suggested book (JJ):	git: Cheesman_2000_UCS.pdf
+
+			uml-components-a-simple-process-for-specifying
+
+			component-based-software-by-john-cheesman-and-john-daniels
+
+
+
+Attendance:		all
+
+--------------------------------------------------------------------------------------------------------------
+
+Week #5 : Meeting 2
+			Prioritised the tasks on http://scrumblr.ca/cs4125
+
+
+			Built a set of post-it notes from JJs spec
+			Reviewed the hotel model
+			Selected this as our project model
+			Selected a hotel use case model to use as the existing model
+Attendance:		all
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+Week #5 : Meeting 3
+			Logo done.
+			Project document started.
+			Narrative Description - first draft done
+			Use Case split into 3 Actor use cases
+Attendance:		all
+
+--------------------------------------------------------------------------------------------------------------
+
+Week #5 : Meeting 4
+			Narrative Description completed
+			SLC work apportioned
+			Project Roles & Allocation work apportioned
+			Visual Paradigm use cse work apportioned
+Attendance:		all
+
+--------------------------------------------------------------------------------------------------------------
+
+
+			
